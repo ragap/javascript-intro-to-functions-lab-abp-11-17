@@ -24,9 +24,10 @@ function sayHiToGrandma(string) {
      {
       return ("YES INDEED!");
      }
-  else (string === "I love you, Grandma." )
-
-  returns "I love you, too." if `string` is "I love you, Grandma."`
+  else (string === "I love you, Grandma." ) {
+        return ("I love you, too.")
+      }
+  returns  if `string` is "I love you, Grandma."`
 
 
 }
